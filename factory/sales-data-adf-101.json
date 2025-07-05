@@ -1,0 +1,9 @@
+{
+	"name": "sales-data-adf-101",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0b96d2c-00f6-4a48-90f3-aceac1a75f02",
+		"tenantId": "e1dd8e8f-9203-44c7-b497-48a69721f03b"
+	}
+}
